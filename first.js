@@ -1,5 +1,5 @@
-gsap.to(".imagecontainer", {
-  width: "100%",
+gsap.to(".imageContainer", {
+  width: "80%",
   duration: 2,
   stagger: 2,
   ease: Expo.easeInOut,
